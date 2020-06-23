@@ -29,11 +29,11 @@ In the newly created session, transfer/copy files using drag and drop.
 
 iii. sudo apt-get install tmux 
 tmux new -s my_awesome_session
-# you live here
+####you live here
 tmux detach
 
 tmux attach -t my_awesome_session
-# you come back here tomorrow
+#####you come back here tomorrow
 
 Exact command (tmux installed earlier) : tmux new -s my_awesome_session
 
